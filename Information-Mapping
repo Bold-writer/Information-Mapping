@@ -1,0 +1,73 @@
+Welcome to the Information-Mapping wiki!
+
+Factory Monitor is a software package used by many kinds of companies. It enables users to create systems for monitoring all kinds of conditions in plants and factories. This product works with Windows 7 Professional, Windows XP/2003 or later, 32 bit or 64 bit Windows Server 2008, and Windows 10. You can use this software on any machine that has a minimum of 100 mb hard drive space, 100 gb RAM or greater, and is running Intel 3.0GHz or more. You must also have Word and Excel because they are the systems used for the generation of output such as reports and parts lists from Factory Monitor. The types of people who will be users for this software are the Project engineers and System Integrators. Users can get started with the system in four steps. First, they have to install the software that’s on the CD. Then they need to open the software and do the configuration of the system settings. This step includes things like giving users rights to the variety of different parts of the system. There is a default user which is the system administrator. Remember that the passwords for the system have to be eight characters in length or more and they should have some special characters. After that, users need to set up the system to monitor which kinds of situations or conditions they want to keep track of. Some examples of these things is a tank over filling and triggering an alarm. Another example is a valve that does not open properly and causes an alarm. Once users have this in place, they can figure out what they want the alarm to say when it is triggered. This is useful because you can give instructions to the people on the plant floor about how to remediate the problem.
+
+Table of Content
+Overview of Factory Monitor Software
+System Requirements
+Operating System
+Hardware Requirements
+Additional Software
+Intended Users
+Getting Started
+Set Up Monitoring Parameters
+Example scenarios
+Customize Alarm Messages
+Overview of Factory Monitor Software
+Factory Monitor is a software package designed for monitoring various conditions in industrial plants and factories. It allows users to configure systems that track specific events, such as equipment malfunctions or threshold exceedances, and trigger alarms accordingly.
+
+System Requirements
+To install and run Factory Monitor, the system must meet the following requirements:
+
+Operating System:
+Windows 7 Professional, Windows XP/2003 or later
+
+Windows Server 2008 (32-bit or 64-bit)
+
+Windows 10
+
+Hardware Requirements:
+Processor: Intel 3.0 GHz or higher
+
+Memory: 100 MB RAM or more
+
+Storage: At least 100 MB of available hard drive space
+
+Additional Software:
+Microsoft Word and Microsoft Excel (required for generating reports and parts lists)
+
+Intended Users
+Factory Monitor is primarily used by:
+
+Project Engineers – Responsible for system setup, configuration, and monitoring.
+
+System Integrators – Configure and customize the system to meet specific operational needs.
+
+Getting Started: Installation and Configuration
+Users can set up Factory Monitor in four steps:
+
+Install the Software
+
+Run the installation program from the provided CD or download source.
+
+Configure System Settings
+
+Define user roles and access permissions.
+
+The system includes a default administrator account.
+
+Passwords must be at least eight characters long and include special characters.
+
+Set Up Monitoring Parameters
+Define the conditions the system should monitor (e.g., equipment status, temperature thresholds).
+
+Example scenarios:
+
+A tank overfills, triggering an alarm.
+
+A valve fails to open properly, generating an alert.
+
+Customize Alarm Messages
+Define alarm messages with specific instructions for operators.
+
+Example: An alert may include troubleshooting steps for handling an equipment failure.
